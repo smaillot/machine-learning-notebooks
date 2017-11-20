@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 
-1. [Perceptron](https://github.com/smaillot/machine-learning-notebooks/tree/master/notebooks/perceptron)
-2. [Simple Neural Networks Using Python](https://github.com/smaillot/machine-learning-notebooks/tree/master/notebooks/multi-layer-perceptron)
-3. [Scikit-learn Classifiers](https://github.com/smaillot/machine-learning-notebooks/tree/master/notebooks/classifiers)
+1. [Perceptron](https://github.com/smaillot/machine-learning-notebooks/blob/master/notebooks/perceptron/perceptron.ipynb)
+2. [Simple Neural Networks Using Python](https://github.com/smaillot/machine-learning-notebooks/blob/master/notebooks/multi-layer-perceptron/multi-layer-perceptron.ipynb)
+3. [Scikit-learn Classifiers](https://github.com/smaillot/machine-learning-notebooks/blob/master/notebooks/classifiers/classifiers.ipynb)
 4. Reinforcement learning
