@@ -7,4 +7,4 @@
     - [Q-Learning](https://github.com/smaillot/qlearning/blob/master/QLearning_notebook.ipynb)
 5. Deep Learning MOOC - [Udacity](https://www.udacity.com/course/deep-learning--ud730)
     - [Lesson 1 - From Machine Learning to Deep Learning](/notebooks/deep-learning-mooc-udacity/1_notmnist.ipynb)
-    - [Lesson 2 - Assignment 1: NotMNIST](/notebooks/deep-learning-mooc-udacity/2_fullyconnected.ipynb)
+    - [Lesson 2 - Assignment: NotMNIST](/notebooks/deep-learning-mooc-udacity/2_fullyconnected.ipynb)
